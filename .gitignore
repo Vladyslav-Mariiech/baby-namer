@@ -1,0 +1,29 @@
+# Composer dependencies
+/vendor/
+
+# Node modules (if using Node.js)
+node_modules/
+
+# IDE and editor files
+*.idea/
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Cache files
+/cache/
+*.cache
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.env
+
+# Backup files
+*.bak
+*.tmp
