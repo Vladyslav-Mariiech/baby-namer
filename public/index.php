@@ -9,7 +9,9 @@
 <div class="container">
     <h1>Baby Namer</h1>
     <form action="submit.php" method="post">
-        <input type="text" name="name" required placeholder="Add name">
+        <label>
+            <input type="text" name="name" required placeholder="Add name">
+        </label>
         <label for="gender">Gender:</label>
         <select name="gender" id="gender" required>
             <option value="">Choose gender</option>
