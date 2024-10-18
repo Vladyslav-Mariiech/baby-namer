@@ -1,0 +1,9 @@
+Jordan|male
+Kate|female
+Kity|female
+Clark|male
+Ivana|female
+Irina|female
+Alina|female
+Alina|female
+Alina|female
